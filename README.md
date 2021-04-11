@@ -1,1 +1,1 @@
-# Pizza
+Pizza is a food that has bread, cheese, and sauce. It is baked and can have many toppings.
